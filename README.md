@@ -30,13 +30,13 @@ An intelligent tool for generating realistic text based on prompts using **GPT-2
 ### 🖥️ Web App – Initial Prompt
 ![Web Output](static/output_web.png)
 
-### 🖥️ Web App – Prompt: *"Generate a short AI story"*
+### 🖥️ Web App – Prompt: *"Describe the importance of ethical AI"*
 ![Output 3](static/output_3.png)
 
 ### 📓 Jupyter Notebook – Initial Prompt
 ![Notebook Output](static/output_notebook.png)
 
-### 📓 Jupyter Notebook – Prompt: *"Describe the importance of ethical AI"*
+### 📓 Jupyter Notebook – Prompt: *"What are the challenges in training large language models?"*
 ![Output 4](static/output_4.png)
 
 
